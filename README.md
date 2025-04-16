@@ -1,6 +1,5 @@
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/user-attachments/assets/b8c1a603-2960-428e-a382-7f626378f63f/ai-debate-arena-logo.png" width="150" alt="AI Debate Arena Logo">
 <h1 align="center">🤖 AI Debate Arena 🤺</h1>
 <p align="center">
 <i> Ever wanted to pit two AIs against each other in a battle of wits? Now you can! </i>
@@ -118,7 +117,6 @@ Fancy debate structures (opening/rebuttal/closing).
 🤝 Contributing
 Got ideas? Found a bug? Feel free to fork it, submit a Pull Request, or open an Issue. It's all just for fun and learning!
 
-📜 License
 MIT License
 
 (Do whatever you want, just don't blame me if your AI debate accidentally summons Skynet.)
